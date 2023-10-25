@@ -1,7 +1,20 @@
-* {
-    font-family: 'Roboto', sans-serif;
+.container{
+    margin-left: 0;
 }
 
-.text-blue {
-    color: #007bff;
+.form-label{
+    font-size: 2rem;
+}
+
+.border {
+    padding: 20px 15px;
+}
+
+#txtContenido{
+    height: 140px; 
+}
+
+#logo{
+    width: 100px;
+    height: 80px;
 }
